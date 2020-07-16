@@ -51,3 +51,6 @@
 // const usuario = [{ nome: 'Diego', idade: 23 }];
 // usuario.map(item => item.idade);
 
+import { soma } from './funcoes';
+
+console.log(soma(1,2));
